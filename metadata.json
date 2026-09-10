@@ -1,0 +1,6 @@
+{
+  "name": "Pregnancy Calculator",
+  "description": "Estimate your pregnancy due date, current pregnancy week, trimester, conception date, and important pregnancy milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
